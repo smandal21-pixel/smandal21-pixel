@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Sourashis, a Electronics Engineering student in India.
+
+
 <!--
 **smandal21-pixel/smandal21-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
